@@ -1,11 +1,16 @@
 _repo: The-American-in-Paris-vol-2-of-2_75060
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 75060-h/images/cover.jpg
 creator:
   author:
     agent_name: Sanderson, John
     gutenberg_agent_id: '57804'
     url: http://www.gutenberg.org/2009/agents/57804
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/75060#The-American-in-Paris-vol-2-of-2
 gutenberg_issued: '2025-01-08'
 gutenberg_type: Text
 identifiers:
